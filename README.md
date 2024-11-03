@@ -2,6 +2,9 @@
 
 A Python application that uses hand tracking to manipulate a 3D cube in real-time using hand gestures.
 
+## Demo
+[![Watch the Demo](https://img.youtube.com/vi/nN92MZHrX_s/0.jpg)](https://www.youtube.com/watch?v=nN92MZHrX_s)
+
 ## Features
 - Real-time hand tracking using MediaPipe
 - 3D cube manipulation with OpenGL
